@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="action_settings">About</string>
+    <string name="date_key">com.jarvis.counter.key</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_title">Remove?</string>
+    <string name="dialog_message">Do you want to remove this Entry?</string>
+    <string name="about">Made by thallosaurus with ♥</string>
+</resources>
+
