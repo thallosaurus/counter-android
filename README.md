@@ -9,8 +9,8 @@ Google Drive (apk): https://drive.google.com/drive/folders/0B_gM44RlLpMOeTlGV1RD
 Google Play: *WILL COME SOON* </br>
 
 ## Screenshots
-<img src="screen1.png"></img>
-<img src="screen2.png"></img>
+<img width="45%" src="screen1.png"></img>
+<img width="45%" src="screen2.png"></img>
 
 ## Support
 Supported API Level: targetSdkVersion: 21 (Android 5.0+)
